@@ -1,0 +1,11 @@
+{
+  "*": "https://cdn.discordapp.com/attachments/1019839018642452532/1019840031604625498/OpenDyslexic-Regular.otf",
+  "ginto_bold": "changes categories, channel names, and headers in user settings",
+  "ginto_medium": "changes user settings category names, and the channel name in the member list",
+  "ginto_regular": "changes nothing for me, you can test it if you want",
+  "roboto_medium_numbers": "changes nothing for me, you can test it if you want",
+  "sourcecodepro_semibold": "changes nothing for me, you can test it if you want",
+  "whitney_bold": "changes server template names, and Invite should look like this",
+  "whitney_medium": "changes message text, channel names, button names, etc",
+  "whitney_semibold": "changes selected channel name, DM List names, etc"
+}
